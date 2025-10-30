@@ -1,0 +1,443 @@
+[
+  {
+    "question": "Is it possible to opt-in to the display of real data in the public Whois?",
+    "answer": "Yes. If you own a domain registered through Tucows and would like to have your contact information displayed in the public Whois, please contact your Domain Provider. They can enable this option for you.",
+    "category": "domain_management",
+    "related_links": [
+      {
+        "text": "Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search/"
+      }
+    ]
+  },
+  {
+    "question": "My domain or website is not working",
+    "answer": "There are a number of possible reasons for this. The fastest way to determine and resolve the issue is to contact your Domain Provider. If you use a separate provider to host your website, it may be an issue on their end. If the issue is ongoing, and you are unhappy with your service, you might consider transferring your domain. We recommend Hover.",
+    "category": "domain_management",
+    "related_links": [
+      {
+        "text": "Contact your Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search"
+      },
+      {
+        "text": "Transferring your domain",
+        "url": "https://tucowsdomains.com/help/domain-transfers/transfer-my-domain/"
+      },
+      {
+        "text": "Hover",
+        "url": "https://hover.com"
+      }
+    ]
+  },
+  {
+    "question": "I am being directed to a \"Manage your Domain\" page",
+    "answer": "This management tool is offered by your Domain Provider. To access it, you will need to contact them. Tucows does not have your account info, nor any means of verifying your identity to grant you access to your account. To reset your password, contact your Domain Provider. The fastest way to regain access to your account is to speak with them directly. If your Domain Provider is unreachable, please click here for additional information.",
+    "category": "domain_management",
+    "related_links": [
+      {
+        "text": "Contact them",
+        "url": "https://tucowsdomains.com/provider-search"
+      },
+      {
+        "text": "Contact your Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search"
+      },
+      {
+        "text": "Click here for additional information",
+        "url": "https://tucowsdomains.com/help/domain-management/my-domain-provider-is-unreachable/"
+      }
+    ]
+  },
+  {
+    "question": "The password to manage my domain is not working",
+    "answer": "To reset your password, contact your Domain Provider. The fastest way to regain access to your account is to speak with them directly. If your Domain Provider is unreachable, please click here for additional information.",
+    "category": "domain_management",
+    "related_links": [
+      {
+        "text": "Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search"
+      },
+      {
+        "text": "Click here for additional information",
+        "url": "https://tucowsdomains.com/help/domain-management/my-domain-provider-is-unreachable/"
+      }
+    ]
+  },
+  {
+    "question": "Update the Whois contact information associated with my domain",
+    "answer": "To update any Whois contact information, including email addresses, contact your Domain Provider. They'll be able to best help you. If your Domain Provider is unreachable, please click here for additional information.",
+    "category": "domain_management",
+    "related_links": [
+      {
+        "text": "Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search"
+      },
+      {
+        "text": "Click here for additional information",
+        "url": "https://tucowsdomains.com/help/domain-management/my-domain-provider-is-unreachable/"
+      }
+    ]
+  },
+  {
+    "question": "Change my DNS nameservers",
+    "answer": "To update your DNS servers, contact your Domain Provider. They'll be able to best help you. If your Domain Provider is unreachable, please click here for additional information.",
+    "category": "domain_management",
+    "related_links": [
+      {
+        "text": "Contact your Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search"
+      },
+      {
+        "text": "Click here for additional information",
+        "url": "https://tucowsdomains.com/help/domain-management/my-domain-provider-is-unreachable/"
+      }
+    ]
+  },
+  {
+    "question": "My domain status is \"Redemption Period\" or \"Pending Delete Restorable\"",
+    "answer": "This means the domain has expired and has now entered a redemption period. If you want to redeem the domain, you should contact your Domain Provider as soon as possible. In most cases, the domain is held in this state for approximately 30 days, though the length of this redemption period varies among registries. Please note: The domain can only be redeemed by the current owner. If you are looking to buy a domain that is currently being held in this state, your Domain Provider can tell you when the domain will become available for purchase. If your Domain Provider is unreachable, please click here for additional information.",
+    "category": "domain_management",
+    "related_links": [
+      {
+        "text": "Contact your Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search"
+      },
+      {
+        "text": "Click here for additional information",
+        "url": "https://tucowsdomains.com/help/domain-management/my-domain-provider-is-unreachable/"
+      }
+    ]
+  },
+  {
+    "question": "My Domain Provider referred me to you",
+    "answer": "We're happy to help. If your Domain Provider is unable to resolve your issue, please submit a request to our Compliance team. In cases where the Domain Provider failed to offer support for a technical issue, you may want to transfer your domain to another Domain Provider. We recommend Hover.",
+    "category": "domain_management",
+    "related_links": [
+      {
+        "text": "Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search/"
+      },
+      {
+        "text": "Submit a request to our Compliance team",
+        "url": "https://tucowsdomains.com/compliance-form/"
+      },
+      {
+        "text": "Transfer your domain",
+        "url": "https://tucowsdomains.com/help/domain-transfers/transfer-my-domain/"
+      },
+      {
+        "text": "Hover",
+        "url": "https://www.hover.com/"
+      }
+    ]
+  },
+  {
+    "question": "I received an email from OpenSRS regarding my domain name",
+    "answer": "If you received an email from OpenSRS, it means that your Domain Provider uses our platform or messaging service. We don't have access to the content of these messages and can't provide support for the domain. You should contact your Domain Provider for more information on what to do next.",
+    "category": "domain_management",
+    "related_links": [
+      {
+        "text": "Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search"
+      }
+    ]
+  },
+  {
+    "question": "My Domain Provider is unreachable",
+    "answer": "If you can no longer contact your Domain Provider, or they are not providing the support you need, we're here to help. Tucows can only intervene when a Domain Provider violates ICANN policies. This includes situations where a Domain Provider goes out of business, is continually unresponsive, or fails to provide you with access to your account for domain management. Please note, if you haven't already done so, it's in your best interest to reach out to your Domain Provider before you contact us regarding any issue. Because they maintain your account, they can often provide the fastest solution. If your domain provider falls into one the cases above and is permanently unreachable, please contact our Compliance team so we can follow up.",
+    "category": "domain_management",
+    "related_links": [
+      {
+        "text": "ICANN policies",
+        "url": "https://tucowsdomains.com/help/legal-policies/icann-policies/"
+      },
+      {
+        "text": "Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search/"
+      },
+      {
+        "text": "Contact our Compliance team",
+        "url": "https://tucowsdomains.com/compliance-form/"
+      }
+    ]
+  },
+  {
+    "question": "Is it possible to opt-in to the display of real data in the public Whois?",
+    "answer": "Yes. If you own a domain registered through Tucows and would like to have your contact information displayed in the public Whois, please contact your Domain Provider. They can enable this option for you.",
+    "category": "renewals_and_redemptions",
+    "related_links": [
+      {
+        "text": "Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search/"
+      }
+    ]
+  },
+  {
+    "question": "My domain or website is not working",
+    "answer": "There are a number of possible reasons for this. The fastest way to determine and resolve the issue is to contact your Domain Provider. If you use a separate provider to host your website, it may be an issue on their end. If the issue is ongoing, and you are unhappy with your service, you might consider transferring your domain. We recommend Hover.",
+    "category": "renewals_and_redemptions",
+    "related_links": [
+      {
+        "text": "Contact your Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search"
+      },
+      {
+        "text": "Transferring your domain",
+        "url": "https://tucowsdomains.com/help/domain-transfers/transfer-my-domain/"
+      },
+      {
+        "text": "Hover",
+        "url": "https://hover.com"
+      }
+    ]
+  },
+  {
+    "question": "I am being directed to a \"Manage your Domain\" page",
+    "answer": "This management tool is offered by your Domain Provider. To access it, you will need to contact them. Tucows does not have your account info, nor any means of verifying your identity to grant you access to your account. To reset your password, contact your Domain Provider. The fastest way to regain access to your account is to speak with them directly. If your Domain Provider is unreachable, please click here for additional information.",
+    "category": "renewals_and_redemptions",
+    "related_links": [
+      {
+        "text": "Contact them",
+        "url": "https://tucowsdomains.com/provider-search"
+      },
+      {
+        "text": "Contact your Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search"
+      },
+      {
+        "text": "Click here for additional information",
+        "url": "https://tucowsdomains.com/help/domain-management/my-domain-provider-is-unreachable/"
+      }
+    ]
+  },
+  {
+    "question": "The password to manage my domain is not working",
+    "answer": "To reset your password, contact your Domain Provider. The fastest way to regain access to your account is to speak with them directly. If your Domain Provider is unreachable, please click here for additional information.",
+    "category": "renewals_and_redemptions",
+    "related_links": [
+      {
+        "text": "Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search"
+      },
+      {
+        "text": "Click here for additional information",
+        "url": "https://tucowsdomains.com/help/domain-management/my-domain-provider-is-unreachable/"
+      }
+    ]
+  },
+  {
+    "question": "Update the Whois contact information associated with my domain",
+    "answer": "To update any Whois contact information, including email addresses, contact your Domain Provider. They'll be able to best help you. If your Domain Provider is unreachable, please click here for additional information.",
+    "category": "renewals_and_redemptions",
+    "related_links": [
+      {
+        "text": "Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search"
+      },
+      {
+        "text": "Click here for additional information",
+        "url": "https://tucowsdomains.com/help/domain-management/my-domain-provider-is-unreachable/"
+      }
+    ]
+  },
+  {
+    "question": "Change my DNS nameservers",
+    "answer": "To update your DNS servers, contact your Domain Provider. They'll be able to best help you. If your Domain Provider is unreachable, please click here for additional information.",
+    "category": "renewals_and_redemptions",
+    "related_links": [
+      {
+        "text": "Contact your Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search"
+      },
+      {
+        "text": "Click here for additional information",
+        "url": "https://tucowsdomains.com/help/domain-management/my-domain-provider-is-unreachable/"
+      }
+    ]
+  },
+  {
+    "question": "My domain status is \"Redemption Period\" or \"Pending Delete Restorable\"",
+    "answer": "This means the domain has expired and has now entered a redemption period. If you want to redeem the domain, you should contact your Domain Provider as soon as possible. In most cases, the domain is held in this state for approximately 30 days, though the length of this redemption period varies among registries. Please note: The domain can only be redeemed by the current owner. If you are looking to buy a domain that is currently being held in this state, your Domain Provider can tell you when the domain will become available for purchase. If your Domain Provider is unreachable, please click here for additional information.",
+    "category": "renewals_and_redemptions",
+    "related_links": [
+      {
+        "text": "Contact your Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search"
+      },
+      {
+        "text": "Click here for additional information",
+        "url": "https://tucowsdomains.com/help/domain-management/my-domain-provider-is-unreachable/"
+      }
+    ]
+  },
+  {
+    "question": "My Domain Provider referred me to you",
+    "answer": "We're happy to help. If your Domain Provider is unable to resolve your issue, please submit a request to our Compliance team. In cases where the Domain Provider failed to offer support for a technical issue, you may want to transfer your domain to another Domain Provider. We recommend Hover.",
+    "category": "renewals_and_redemptions",
+    "related_links": [
+      {
+        "text": "Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search/"
+      },
+      {
+        "text": "Submit a request to our Compliance team",
+        "url": "https://tucowsdomains.com/compliance-form/"
+      },
+      {
+        "text": "Transfer your domain",
+        "url": "https://tucowsdomains.com/help/domain-transfers/transfer-my-domain/"
+      },
+      {
+        "text": "Hover",
+        "url": "https://www.hover.com/"
+      }
+    ]
+  },
+  {
+    "question": "I received an email from OpenSRS regarding my domain name",
+    "answer": "If you received an email from OpenSRS, it means that your Domain Provider uses our platform or messaging service. We don't have access to the content of these messages and can't provide support for the domain. You should contact your Domain Provider for more information on what to do next.",
+    "category": "renewals_and_redemptions",
+    "related_links": [
+      {
+        "text": "Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search"
+      }
+    ]
+  },
+  {
+    "question": "My Domain Provider is unreachable",
+    "answer": "If you can no longer contact your Domain Provider, or they are not providing the support you need, we're here to help. Tucows can only intervene when a Domain Provider violates ICANN policies. This includes situations where a Domain Provider goes out of business, is continually unresponsive, or fails to provide you with access to your account for domain management. Please note, if you haven't already done so, it's in your best interest to reach out to your Domain Provider before you contact us regarding any issue. Because they maintain your account, they can often provide the fastest solution. If your domain provider falls into one the cases above and is permanently unreachable, please contact our Compliance team so we can follow up.",
+    "category": "renewals_and_redemptions",
+    "related_links": [
+      {
+        "text": "ICANN policies",
+        "url": "https://tucowsdomains.com/help/legal-policies/icann-policies/"
+      },
+      {
+        "text": "Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search"
+      },
+      {
+        "text": "Contact our Compliance team",
+        "url": "https://tucowsdomains.com/compliance-form/"
+      }
+    ]
+  },
+  {
+    "question": "Transfer of Ownership, Change of Registrant and Domain Trades",
+    "answer": "The transfer of domain ownership from one individual or organization to another is governed by ICANN's Inter-Registrar Transfer Policy. The process is sometimes also referred to as a change of Registrant or domain trade. Transferring ownership of a domain is accomplished by updating the owner contact information in Whois. Under the current ICANN policy, both the old Registrant, and new Registrant must approve modifications to this information. A confirmation email is sent to both the old Registrant email and the new Registrant email. Each party must follow the link provided to a confirmation page, where they grant approval of the transfer. This same process also comes into play when minor updates to Whois contact information are made. Please contact your provider if you are unsure of how to update this information.",
+    "category": "transfers",
+    "related_links": []
+  },
+  {
+    "question": "Get my EPP/auth code",
+    "answer": "The fastest way to obtain your auth code, or EPP code, is to contact your Domain Provider, the company from which you purchased your domain. They will be able to verify this information quickly and securely. If your Domain Provider is unreachable, please click here for additional information.",
+    "category": "transfers",
+    "related_links": [
+      {
+        "text": "Contact your Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search/"
+      },
+      {
+        "text": "Domain Provider is unreachable",
+        "url": "https://tucowsdomains.com/help/domain-management/my-domain-provider-is-unreachable/"
+      }
+    ]
+  },
+  {
+    "question": "How long will it take to transfer my domain?",
+    "answer": "The transfer process is automated and can take up to 7 days to complete. That said, we do our part to make the process as quick as possible. If you are transferring your domain away from Tucows, we send a courtesy confirmation email, allowing you to grant permission for us to release the domain sooner. If you are transferring your domain to Tucows via one of our affiliated Domain Providers, we initiate the transfer upon your request. It's then up to your old registrar to release the domain.",
+    "category": "transfers",
+    "related_links": [
+      {
+        "text": "More information on the transfer process",
+        "url": "https://tucowsdomains.com/help/domain-transfers/transfer-my-domain/"
+      }
+    ]
+  },
+  {
+    "question": "Transfer my domain",
+    "answer": "To transfer your domain, follow these steps:\n\nStep 1: Log in to your account or contact your current Domain Provider to:\n1. Obtain your Auth code\n2. Unlock your domain\n3. Disable domain privacy or Whois privacy\n4. Verify access to the admin email address associated with the domain\n\nStep 2: Contact your new Domain Provider and have them initiate the transfer. Keep your Auth code handy.\n\nStep 3: Confirm the transfer by following instructions from authorization emails sent by your old or new Domain Provider.\n\nPlease note:\n- Transfers can take up to 7 days.\n- You cannot transfer a domain that has existed for less than 60 days, except for certain ccTLDs.\n- If your Domain Provider is unreachable, please click here for additional information.",
+    "category": "transfers",
+    "related_links": [
+      {
+        "text": "Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search/"
+      },
+      {
+        "text": "ccTLDs",
+        "url": "https://tucowsdomains.com/help/legal-policies/country-code-top-level-domain-cctld-policies/"
+      },
+      {
+        "text": "Domain Provider is unreachable",
+        "url": "https://tucowsdomains.com/help/domain-management/my-domain-provider-is-unreachable/"
+      }
+    ]
+  },
+  {
+    "question": "What is the GDPR?",
+    "answer": "The European Union's General Data Protection Regulation (GDPR) lays out a new set of rules for how the personal data of people living within the European Union should be handled. That being said, it embodies some really great principles and concepts that we believe in here at Tucows, and we want to pass these protections and rights on to all registrants, regardless of where they happen to live. Though it can be fairly complex and far-reaching, at a high level, the GDPR can be broken down into three main concepts: Consent and control, Transparency, and The right to be forgotten.",
+    "category": "data_use",
+    "related_links": []
+  },
+  {
+    "question": "I'm not in the EU, why do I have to care about the GDPR?",
+    "answer": "While the rules outlined in GDPR apply only to EU-local individuals, changes to how data is collected and handled will happen on a global scale as companies modify their existing practices to ensure they are compliant with these new regulations. While we will try our best to minimize any disruption to our domain management and registration processes for registrants, Tucows believes in the principles that the GDPR upholds, and we, along with other key players in our industry, feel that extending the benefits of the GDPR to registrants worldwide is simply the right thing to do. What it means is that all these regulations around protecting personal information can't just be afterthoughts, they need to be part of the system that's on unless you turn it off. We'll be empowering registrants to understand what information we hold and how it's used, to give consent to us for that use, and to request erasure of data in cases where consent cannot be provided.",
+    "category": "data_use",
+    "related_links": []
+  },
+  {
+    "question": "How do I find out more about the right to erasure?",
+    "answer": "Article 17 of the GDPR outlines the data subject's right to erasure, also known as the right to be forgotten. It gives each person the right to request that a controller, such as Tucows, erase their personal data. It also requires us to comply with any such request \"without undue delay\" as long as one of six specific legal grounds applies. On top of this, it states that in cases where the controller has made personal data public, they must reach out to any other controller who is processing the data and inform them about the request for erasure so that the appropriate steps can be taken. Finally, Article 17 lays out several exceptions where the right to erasure does not apply. These include instances when processing of data is necessary for \"exercising the right of freedom of expression and information,\" for \"compliance with a legal obligation,\" or for \"the establishment, exercise or defense of legal claims.\"",
+    "category": "data_use",
+    "related_links": []
+  },
+  {
+    "question": "What is considered personal data?",
+    "answer": "Personal data is any information that relates to an identified or identifiable living individual. Different pieces of information, which collected together can lead to the identification of a particular person, also constitute personal data. Personal data that has been de-identified, encrypted or pseudonymised but can be used to re-identify a person remains personal data and falls within the scope of the law.",
+    "category": "data_use",
+    "related_links": []
+  },
+  {
+    "question": "If my service is canceled because I withdrew consent, will I receive a refund?",
+    "answer": "Please contact your domain service provider to inquire about their refund policies surrounding service cancellation.",
+    "category": "data_use",
+    "related_links": []
+  },
+  {
+    "question": "Why does the order in which my services are listed on the Data use consent settings page change?",
+    "answer": "The order in which services are presented on the Data use consent settings page is prioritized so that any actionable or important items are seen first. This means services will be listed in the following order, as they apply to you: 1. New, asynchronous products still requiring consent. 2. New, synchronous products still requiring consent. 3. Older, asynchronous products where the consent choice has been made. 4. Older, synchronous products where the consent choice has been made. To obtain the URL to your Data use consent settings page, please contact your domain provider. If your provider is uncooperative or unresponsive, please reach out to Tucows' compliance team.",
+    "category": "data_use",
+    "related_links": []
+  },
+  {
+    "question": "Does the data use consent request timeout?",
+    "answer": "Yes, though this only poses an issue for registrants of asynchronous services. Ten days following the initial consent request, your consent status will default to \"non-consent\" if we haven't received a response, and the order will be placed on hold and ultimately canceled. Synchronous services will be unaffected by this, as Tucows will continue to use placeholders for any data elements that we process until consent is given. Pending orders for asynchronous services, however, will be canceled at this 10-day mark if we haven't yet received a response from the registrant.",
+    "category": "data_use",
+    "related_links": []
+  },
+  {
+    "question": "Who receives the data use consent request?",
+    "answer": "The consent request will be sent to the registrant email address that Tucows has on file for the domain or service.",
+    "category": "data_use",
+    "related_links": []
+  },
+  {
+    "question": "Can the consent request be sent to any other email on my account, like the domain admin, billing, or tech contacts?",
+    "answer": "No, these requests will only be sent to the registrant's email address. Sending a consent request to an email address other than the owner would not be considered GDPR compliant. For legal reasons, Tucows will no longer process admin, billing, or technical contact information, except in cases where the registry specifically requires these contact points, and whenever possible, we will replace these fields with placeholder data.",
+    "category": "data_use",
+    "related_links": []
+  },
+  {
+    "question": "Why can't I see real contact information in the public Whois anymore?",
+    "answer": "Under the GDPR, personal data may be collected and processed only when there is a legal reason to do so. This means that the public Whois system as it exists today is incompatible with the principles of data privacy that the GDPR affirms.",
+    "category": "data_use",
+    "related_links": []
+  },
+  {
+    "question": "How will Whois change?",
+    "answer": "Tucows will implement a new \"gated Whois\" system. Under this new system, the registrant, admin, and technical contact information for registered domains will no longer be visible in the public Whois database. \"Full\" Whois data for registered domains will only be accessible to legitimate and accredited third-parties, such as law enforcement, members of the security community, and intellectual property lawyers, through the gated Whois. This \"full\" Whois data will be limited to those personal data elements that we have obtained permission to process, either via contract or via consent of the data subject. This switch to a gated Whois is being made in an effort to reconcile our GDPR-imposed restrictions with our ongoing obligations as an accredited registrar. As of May 25, 2018, registrant information\u2014name, organization, address, phone number, and email\u2014will be considered personal data that can no longer be published in the public Whois. However, we feel authenticated access to this information, in a specific and limited manner, must be provided to those with legitimate reasons to request it. A gated Whois system will allow for this, while also ensuring that private information remains guarded from the general public.",
+    "category": "data_use",
+    "related_links": []
+  }
+]

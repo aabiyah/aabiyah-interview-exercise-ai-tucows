@@ -1,157 +1,154 @@
-{
-  "renewals_and_redemptions": [
-    {
-      "question": "Is it possible to opt-in to the display of real data in the public Whois?",
-      "answer": "Yes. If you own a domain registered through Tucows and would like to have your contact information displayed in the public Whois, please contact your Domain Provider. They can enable this option for you.",
-      "related_links": [
-        {
-          "text": "Domain Provider",
-          "url": "https://tucowsdomains.com/provider-search/"
-        }
-      ]
-    },
-    {
-      "question": "My domain or website is not working",
-      "answer": "There are a number of possible reasons for this. The fastest way to determine and resolve the issue is to contact your Domain Provider. If you use a separate provider to host your website, it may be an issue on their end. If the issue is ongoing, and you are unhappy with your service, you might consider transferring your domain. We recommend Hover.",
-      "related_links": [
-        {
-          "text": "Contact your Domain Provider",
-          "url": "https://tucowsdomains.com/provider-search"
-        },
-        {
-          "text": "Transferring your domain",
-          "url": "https://tucowsdomains.com/help/domain-transfers/transfer-my-domain/"
-        },
-        {
-          "text": "Hover",
-          "url": "https://hover.com"
-        }
-      ]
-    },
-    {
-      "question": "I am being directed to a \"Manage your Domain\" page",
-      "answer": "This management tool is offered by your Domain Provider. To access it, you will need to contact them. Tucows does not have your account info, nor any means of verifying your identity to grant you access to your account. To reset your password, contact your Domain Provider. The fastest way to regain access to your account is to speak with them directly. If your Domain Provider is unreachable, please click here for additional information.",
-      "related_links": [
-        {
-          "text": "Contact them",
-          "url": "https://tucowsdomains.com/provider-search"
-        },
-        {
-          "text": "Contact your Domain Provider",
-          "url": "https://tucowsdomains.com/provider-search"
-        },
-        {
-          "text": "Click here for additional information",
-          "url": "https://tucowsdomains.com/help/domain-management/my-domain-provider-is-unreachable/"
-        }
-      ]
-    },
-    {
-      "question": "The password to manage my domain is not working",
-      "answer": "To reset your password, contact your Domain Provider. The fastest way to regain access to your account is to speak with them directly. If your Domain Provider is unreachable, please click here for additional information.",
-      "related_links": [
-        {
-          "text": "Domain Provider",
-          "url": "https://tucowsdomains.com/provider-search"
-        },
-        {
-          "text": "Click here for additional information",
-          "url": "https://tucowsdomains.com/help/domain-management/my-domain-provider-is-unreachable/"
-        }
-      ]
-    },
-    {
-      "question": "Update the Whois contact information associated with my domain",
-      "answer": "To update any Whois contact information, including email addresses, contact your Domain Provider. They'll be able to best help you. If your Domain Provider is unreachable, please click here for additional information.",
-      "related_links": [
-        {
-          "text": "Domain Provider",
-          "url": "https://tucowsdomains.com/provider-search"
-        },
-        {
-          "text": "Click here for additional information",
-          "url": "https://tucowsdomains.com/help/domain-management/my-domain-provider-is-unreachable/"
-        }
-      ]
-    },
-    {
-      "question": "Change my DNS nameservers",
-      "answer": "To update your DNS servers, contact your Domain Provider. They'll be able to best help you. If your Domain Provider is unreachable, please click here for additional information.",
-      "related_links": [
-        {
-          "text": "Contact your Domain Provider",
-          "url": "https://tucowsdomains.com/provider-search"
-        },
-        {
-          "text": "Click here for additional information",
-          "url": "https://tucowsdomains.com/help/domain-management/my-domain-provider-is-unreachable/"
-        }
-      ]
-    },
-    {
-      "question": "My domain status is \"Redemption Period\" or \"Pending Delete Restorable\"",
-      "answer": "This means the domain has expired and has now entered a redemption period. If you want to redeem the domain, you should contact your Domain Provider as soon as possible. In most cases, the domain is held in this state for approximately 30 days, though the length of this redemption period varies among registries. Please note: The domain can only be redeemed by the current owner. If you are looking to buy a domain that is currently being held in this state, your Domain Provider can tell you when the domain will become available for purchase. If your Domain Provider is unreachable, please click here for additional information.",
-      "related_links": [
-        {
-          "text": "Contact your Domain Provider",
-          "url": "https://tucowsdomains.com/provider-search"
-        },
-        {
-          "text": "Click here for additional information",
-          "url": "https://tucowsdomains.com/help/domain-management/my-domain-provider-is-unreachable/"
-        }
-      ]
-    },
-    {
-      "question": "My Domain Provider referred me to you",
-      "answer": "We're happy to help. If your Domain Provider is unable to resolve your issue, please submit a request to our Compliance team. In cases where the Domain Provider failed to offer support for a technical issue, you may want to transfer your domain to another Domain Provider. We recommend Hover.",
-      "related_links": [
-        {
-          "text": "Domain Provider",
-          "url": "https://tucowsdomains.com/provider-search/"
-        },
-        {
-          "text": "Submit a request to our Compliance team",
-          "url": "https://tucowsdomains.com/compliance-form/"
-        },
-        {
-          "text": "Transfer your domain",
-          "url": "https://tucowsdomains.com/help/domain-transfers/transfer-my-domain/"
-        },
-        {
-          "text": "Hover",
-          "url": "https://www.hover.com/"
-        }
-      ]
-    },
-    {
-      "question": "I received an email from OpenSRS regarding my domain name",
-      "answer": "If you received an email from OpenSRS, it means that your Domain Provider uses our platform or messaging service. We don't have access to the content of these messages and can't provide support for the domain. You should contact your Domain Provider for more information on what to do next.",
-      "related_links": [
-        {
-          "text": "Domain Provider",
-          "url": "https://tucowsdomains.com/provider-search"
-        }
-      ]
-    },
-    {
-      "question": "My Domain Provider is unreachable",
-      "answer": "If you can no longer contact your Domain Provider, or they are not providing the support you need, we're here to help. Tucows can only intervene when a Domain Provider violates ICANN policies. This includes situations where a Domain Provider goes out of business, is continually unresponsive, or fails to provide you with access to your account for domain management. Please note, if you haven't already done so, it's in your best interest to reach out to your Domain Provider before you contact us regarding any issue. Because they maintain your account, they can often provide the fastest solution. If your domain provider falls into one the cases above and is permanently unreachable, please contact our Compliance team so we can follow up.",
-      "related_links": [
-        {
-          "text": "ICANN policies",
-          "url": "https://tucowsdomains.com/help/legal-policies/icann-policies/"
-        },
-        {
-          "text": "Domain Provider",
-          "url": "https://tucowsdomains.com/provider-search/"
-        },
-        {
-          "text": "Contact our Compliance team",
-          "url": "https://tucowsdomains.com/compliance-form/"
-        }
-      ]
-    }
-  ]
-}
-
+[
+  {
+    "question": "Is it possible to opt-in to the display of real data in the public Whois?",
+    "answer": "Yes. If you own a domain registered through Tucows and would like to have your contact information displayed in the public Whois, please contact your Domain Provider. They can enable this option for you.",
+    "related_links": [
+      {
+        "text": "Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search/"
+      }
+    ]
+  },
+  {
+    "question": "My domain or website is not working",
+    "answer": "There are a number of possible reasons for this. The fastest way to determine and resolve the issue is to contact your Domain Provider. If you use a separate provider to host your website, it may be an issue on their end. If the issue is ongoing, and you are unhappy with your service, you might consider transferring your domain. We recommend Hover.",
+    "related_links": [
+      {
+        "text": "Contact your Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search"
+      },
+      {
+        "text": "Transferring your domain",
+        "url": "https://tucowsdomains.com/help/domain-transfers/transfer-my-domain/"
+      },
+      {
+        "text": "Hover",
+        "url": "https://hover.com"
+      }
+    ]
+  },
+  {
+    "question": "I am being directed to a \"Manage your Domain\" page",
+    "answer": "This management tool is offered by your Domain Provider. To access it, you will need to contact them. Tucows does not have your account info, nor any means of verifying your identity to grant you access to your account. To reset your password, contact your Domain Provider. The fastest way to regain access to your account is to speak with them directly. If your Domain Provider is unreachable, please click here for additional information.",
+    "related_links": [
+      {
+        "text": "Contact them",
+        "url": "https://tucowsdomains.com/provider-search"
+      },
+      {
+        "text": "Contact your Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search"
+      },
+      {
+        "text": "Click here for additional information",
+        "url": "https://tucowsdomains.com/help/domain-management/my-domain-provider-is-unreachable/"
+      }
+    ]
+  },
+  {
+    "question": "The password to manage my domain is not working",
+    "answer": "To reset your password, contact your Domain Provider. The fastest way to regain access to your account is to speak with them directly. If your Domain Provider is unreachable, please click here for additional information.",
+    "related_links": [
+      {
+        "text": "Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search"
+      },
+      {
+        "text": "Click here for additional information",
+        "url": "https://tucowsdomains.com/help/domain-management/my-domain-provider-is-unreachable/"
+      }
+    ]
+  },
+  {
+    "question": "Update the Whois contact information associated with my domain",
+    "answer": "To update any Whois contact information, including email addresses, contact your Domain Provider. They'll be able to best help you. If your Domain Provider is unreachable, please click here for additional information.",
+    "related_links": [
+      {
+        "text": "Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search"
+      },
+      {
+        "text": "Click here for additional information",
+        "url": "https://tucowsdomains.com/help/domain-management/my-domain-provider-is-unreachable/"
+      }
+    ]
+  },
+  {
+    "question": "Change my DNS nameservers",
+    "answer": "To update your DNS servers, contact your Domain Provider. They'll be able to best help you. If your Domain Provider is unreachable, please click here for additional information.",
+    "related_links": [
+      {
+        "text": "Contact your Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search"
+      },
+      {
+        "text": "Click here for additional information",
+        "url": "https://tucowsdomains.com/help/domain-management/my-domain-provider-is-unreachable/"
+      }
+    ]
+  },
+  {
+    "question": "My domain status is \"Redemption Period\" or \"Pending Delete Restorable\"",
+    "answer": "This means the domain has expired and has now entered a redemption period. If you want to redeem the domain, you should contact your Domain Provider as soon as possible. In most cases, the domain is held in this state for approximately 30 days, though the length of this redemption period varies among registries. Please note: The domain can only be redeemed by the current owner. If you are looking to buy a domain that is currently being held in this state, your Domain Provider can tell you when the domain will become available for purchase. If your Domain Provider is unreachable, please click here for additional information.",
+    "related_links": [
+      {
+        "text": "Contact your Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search"
+      },
+      {
+        "text": "Click here for additional information",
+        "url": "https://tucowsdomains.com/help/domain-management/my-domain-provider-is-unreachable/"
+      }
+    ]
+  },
+  {
+    "question": "My Domain Provider referred me to you",
+    "answer": "We're happy to help. If your Domain Provider is unable to resolve your issue, please submit a request to our Compliance team. In cases where the Domain Provider failed to offer support for a technical issue, you may want to transfer your domain to another Domain Provider. We recommend Hover.",
+    "related_links": [
+      {
+        "text": "Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search/"
+      },
+      {
+        "text": "Submit a request to our Compliance team",
+        "url": "https://tucowsdomains.com/compliance-form/"
+      },
+      {
+        "text": "Transfer your domain",
+        "url": "https://tucowsdomains.com/help/domain-transfers/transfer-my-domain/"
+      },
+      {
+        "text": "Hover",
+        "url": "https://www.hover.com/"
+      }
+    ]
+  },
+  {
+    "question": "I received an email from OpenSRS regarding my domain name",
+    "answer": "If you received an email from OpenSRS, it means that your Domain Provider uses our platform or messaging service. We don't have access to the content of these messages and can't provide support for the domain. You should contact your Domain Provider for more information on what to do next.",
+    "related_links": [
+      {
+        "text": "Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search"
+      }
+    ]
+  },
+  {
+    "question": "My Domain Provider is unreachable",
+    "answer": "If you can no longer contact your Domain Provider, or they are not providing the support you need, we're here to help. Tucows can only intervene when a Domain Provider violates ICANN policies. This includes situations where a Domain Provider goes out of business, is continually unresponsive, or fails to provide you with access to your account for domain management. Please note, if you haven't already done so, it's in your best interest to reach out to your Domain Provider before you contact us regarding any issue. Because they maintain your account, they can often provide the fastest solution. If your domain provider falls into one the cases above and is permanently unreachable, please contact our Compliance team so we can follow up.",
+    "related_links": [
+      {
+        "text": "ICANN policies",
+        "url": "https://tucowsdomains.com/help/legal-policies/icann-policies/"
+      },
+      {
+        "text": "Domain Provider",
+        "url": "https://tucowsdomains.com/provider-search"
+      },
+      {
+        "text": "Contact our Compliance team",
+        "url": "https://tucowsdomains.com/compliance-form/"
+      }
+    ]
+  }
+]

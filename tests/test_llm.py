@@ -1,0 +1,3 @@
+- test_mcp_schema_compliance()
+- test_confidence_scoring()
+- test_action_required_logic()
