@@ -7,13 +7,13 @@ from embeddings.vector_store import FAISSVectorStore
 
 
 def main():
-    """Loading FAQ data and building FAISS index by extracting only the relevant fields for similarity search."""
+    # Loading FAQ data and building FAISS index by extracting only the relevant fields for similarity search.
     print("=" * 60)
     print("Building FAISS Index for Tucows Knowledge Assistant")
     print("=" * 60)
 
     # Loading FAQ data
-    print("\n[1/4] Loading FAQ data...")
+    print("\nLoading FAQ data...")
     faqs = load_all_faqs()
     texts = prepare_faq_texts(faqs)
 
@@ -22,17 +22,17 @@ def main():
         return
 
     # Generating embeddings for all FAQ data using all-MiniLM-L6-v2 model to convert each text into a numerical vector of size 384 (the embedding dimension). Example: If we have 100 FAQs, we will get a (100, 384) NumPy array of embeddings.
-    print("\n[2/4] Generating embeddings...")
+    print("\nGenerating embeddings...")
     embedder = FAQEmbedder()
     embeddings = embedder.embed_texts(texts)
 
     # Initializing FAISS vector store and adding embeddings with metadata
-    print("\n[3/4] Building FAISS index...")
+    print("\nBuilding FAISS index...")
     vector_store = FAISSVectorStore(embedding_dim=embedder.embedding_dim)
     vector_store.add_vectors(embeddings, faqs)
 
     # Saving the FAISS index and metadata to disk for future use
-    print("\n[4/4] Saving index...")
+    print("\nSaving index...")
     vector_store.save_index()
 
     print("\n" + "=" * 60)

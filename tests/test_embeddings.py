@@ -1,2 +1,0 @@
-- test_faiss_retrieval_accuracy()
-- test_embedding_consistency()

@@ -1,4 +1,4 @@
-"""FAISS-based vector storage and retrieval for fast vector similarity search."""
+# FAISS-based vector storage and retrieval for fast vector similarity search.
 import json
 import numpy as np
 import faiss
@@ -7,27 +7,23 @@ from config import FAISS_INDEX_PATH, FAISS_METADATA_PATH
 
 
 class FAISSVectorStore:
-    """FAISS index management for FAQ retrieval based on vector similarity."""
+    # FAISS index management for FAQ retrieval based on vector similarity.
 
     def __init__(self, embedding_dim: int = 384):
-        """
-        Initializing a FAISS index for inner product similarity search. Since our embeddings are normalized, inner product is the same as cosine similarity.
-        """
+        # Initializing a FAISS index for inner product similarity search. Since our embeddings are normalized, inner product is the same as cosine similarity.
         self.embedding_dim = embedding_dim
         # Use IndexFlatIP for cosine similarity (Inner Product with normalized vectors)
         self.index = faiss.IndexFlatIP(embedding_dim)
         self.metadata: List[Dict] = []
 
     def add_vectors(self, embeddings: np.ndarray, metadata: List[Dict]):
-        """
-        Taking a list of embeddings and their corresponding metadata to add to the FAISS index.
-        """
+        # Taking a list of embeddings and their corresponding metadata to add to the FAISS index.
         assert len(embeddings) == len(metadata), "Embeddings and metadata must match"
 
-        # Convert to float32 (FAISS requirement)
+        # Converting to float32 (FAISS requirement)
         embeddings = embeddings.astype('float32')
 
-        # Add to FAISS index
+        # Adding to FAISS index
         self.index.add(embeddings)
         self.metadata.extend(metadata)
 
@@ -35,13 +31,12 @@ class FAISSVectorStore:
         print(f"Total vectors in index: {self.index.ntotal}")
 
     def search(self, query_embedding: np.ndarray, top_k: int = 3) -> List[Dict]:
-        """
-        This function searches the FAISS index for the top_k most similar vectors to the query_embedding. It returns a list of metadata dictionaries for the most similar FAQs along with their similarity scores.
-        """
-        # Reshape for FAISS (since it expects a 2D array)
+        # This function searches the FAISS index for the top_k most similar vectors to the query_embedding. It returns a list of metadata dictionaries for the most similar FAQs along with their similarity scores.
+
+        # Reshaping for FAISS (since it expects a 2D array)
         query_embedding = query_embedding.reshape(1, -1).astype('float32')
 
-        # Search (returns distances and indices)
+        # Searching (returns distances and indices)
         distances, indices = self.index.search(query_embedding, top_k)
 
         results = []
@@ -55,7 +50,7 @@ class FAISSVectorStore:
         return results
 
     def save_index(self):
-        """This function saves the FAISS index and metadata to disk so that it can be reloaded later without rebuilding."""
+        # This function saves the FAISS index and metadata to disk so that it can be reloaded later without rebuilding.
         faiss.write_index(self.index, str(FAISS_INDEX_PATH))
 
         with open(FAISS_METADATA_PATH, 'w', encoding='utf-8') as f:
@@ -65,7 +60,7 @@ class FAISSVectorStore:
         print(f"Saved metadata to {FAISS_METADATA_PATH}")
 
     def load_index(self):
-        """Loading FAISS index and metadata from disk for fast retrieval."""
+        # Loading FAISS index and metadata from disk for fast retrieval.
         if not FAISS_INDEX_PATH.exists() or not FAISS_METADATA_PATH.exists():
             raise FileNotFoundError("FAISS index files not found. Run build_index.py first.")
 
